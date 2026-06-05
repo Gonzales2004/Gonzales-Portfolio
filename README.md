@@ -9,7 +9,7 @@
 ---
 
 ## *Screenshot*:
-![Screenshot](/WebPortScreenshot.png)
+![Screenshot](/WebPortSS.png)
 
 ---
 
